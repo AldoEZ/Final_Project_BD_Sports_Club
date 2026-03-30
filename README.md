@@ -29,18 +29,16 @@ Final_Project_BD_Sports_Club/
   README.md
   
   docs/
-    ProjectReport.pdf
+    project_report.pdf
     requirements.md
     data_dictionary.md
-    images/
-      er-diagram.png
-      relational-model.png
   
   models/
-    conceptual/
+    conceptual_model/
+      12equipo_club_deportivo.dia
+      er_diagram.png
+    logical_model/
       12equipo_clubdeportivo.DM1
-      12equipo-club_deportivo.dia
-    logical/
       relational_model.png
   
   sql/
