@@ -25,7 +25,7 @@ A relational database project for managing a sports club’s core operations: me
 ## Repository Structure
 
 ```text
-club-deportivo-db/
+Final_Project_BD_Sports_Club/
   README.md
   
   docs/
